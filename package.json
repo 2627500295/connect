@@ -1,5 +1,5 @@
 {
-  "name": "connect",
+  "name": "@microld/connect",
   "version": "0.1.0",
   "keywords": [],
   "description": "React-Redux connect Helper for Decorator",
